@@ -2,6 +2,8 @@
 
 Dans un environnement professionnel, les rapports d'incidents contiennent bien plus que des faits : ils reflètent aussi l'état émotionnel des employés face aux situations critiques. Ce projet vise à exploiter l'analyse des émotions pour mieux comprendre les ressentis des salariés et optimiser la gestion des risques. L'objectif est d'extraire et d'analyser les émotions présentes dans les rapports d'incidents afin d'identifier les signaux faibles de tensions, stress ou insatisfaction. Cette approche permet d'offrir aux départements RH et sécurité des insights précis pour améliorer le climat de travail et réduire les risques internes.
 
+![Inégnieur en bâtiment](./ingenieur.jpg)
+
 ## Enjeux
 - **Meilleure gestion des risques** : Identifier rapidement les signaux d'alerte.
 - **Optimisation des processus RH** : Adapter les politiques internes en fonction des tendances émotionnelles.
